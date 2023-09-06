@@ -1,0 +1,2 @@
+# Alice_UnoAssemblyModel
+UNO板的装饰性外壳SolidWorks模型
